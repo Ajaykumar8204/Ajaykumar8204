@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ajay</h1>
-<h2 align="center">A passionate frontend developer from India</h2>
+<h2 style align="center">A passionate frontend developer from India</h2>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 <p align="left"> <a href="https://twitter.com/20005ajays1" target="blank">
 <img src="https://img.shields.io/twitter/follow/20005ajays1?logo=twitter&style=for-the-badge" alt="20005ajays1" /></a> </p>
